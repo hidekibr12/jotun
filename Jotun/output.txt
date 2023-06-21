@@ -1,0 +1,33 @@
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+
+
+Loading Level From Scene Manager
+
+
+Enabling playVideoOnEnable
+
+
+Starting video
+
+
+Stop video
+
+
+Loading Level From Scene Manager
+
+
+Loading Level From Scene Manager
+
+
+Achievement complete: nature_kill
+
+
+Achievement complete: nature_no_power
+
+
+Loading Level From Scene Manager
+
+
+Loading Level From Scene Manager
+
+
