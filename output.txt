@@ -1,0 +1,135 @@
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+
+
+Loading Level From Scene Manager
+
+
+Enabling playVideoOnEnable
+
+
+Starting video
+
+
+Stop video
+
+
+Loading Level From Scene Manager
+
+
+Loading Level From Scene Manager
+
+
+Achievement complete: nature_kill
+
+
+Achievement complete: nature_no_power
+
+
+Loading Level From Scene Manager
+
+
+Loading Level From Scene Manager
+
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+
+
+Loading Level From Scene Manager
+
+
+Loading Level From Scene Manager
+
+
+NullReferenceException: Object reference not set to an instance of an object
+DisableGodPowerInputAndroid.OnEnable ()
+UnityEngine.GameObject:SetActive(Boolean)
+ToggleObjectsOnEnable:OnEnable()
+UnityEngine.GameObject:SetActive(Boolean)
+PlaySequence:StartSequenceNextPhase()
+PlaySequence:SequentiableBehaviourCompleted(SequentiableBehaviour)
+SequentiableBehaviour:EndSequence()
+FadeEverything:LateUpdate()
+
+
+NullReferenceException: Object reference not set to an instance of an object
+DisableGodPowerInputAndroid.OnDisable ()
+UnityEngine.GameObject:SetActive(Boolean)
+SequenceDelay:DelayDone()
+
+
+Loading Level From Scene Manager
+
+
+Loading Level From Scene Manager
+
+
+Loading Level From Scene Manager
+
+
+NullReferenceException: Object reference not set to an instance of an object
+DisableGodPowerInputAndroid.OnEnable ()
+UnityEngine.GameObject:SetActive(Boolean)
+ToggleObjectsOnEnable:OnEnable()
+UnityEngine.GameObject:SetActive(Boolean)
+PlaySequence:StartSequenceNextPhase()
+PlaySequence:SequentiableBehaviourCompleted(SequentiableBehaviour)
+SequentiableBehaviour:EndSequence()
+FadeEverything:LateUpdate()
+
+
+NullReferenceException: Object reference not set to an instance of an object
+DisableGodPowerInputAndroid.OnDisable ()
+UnityEngine.GameObject:SetActive(Boolean)
+ToggleObjectsOnEnable:OnEnable()
+UnityEngine.GameObject:SetActive(Boolean)
+PlaySequence:StartSequenceNextPhase()
+PlaySequence:SequentiableBehaviourCompleted(SequentiableBehaviour)
+SequentiableBehaviour:EndSequence()
+SequenceDelay:DelayDone()
+
+
+Loading Level From Scene Manager
+
+
+Loading Level From Scene Manager
+
+
+Cannot change GameObject hierarchy while activating or deactivating the parent.
+
+
+Cannot change GameObject hierarchy while activating or deactivating the parent.
+
+
+Cannot change GameObject hierarchy while activating or deactivating the parent.
+
+
+Cannot change GameObject hierarchy while activating or deactivating the parent.
+
+
+Cannot change GameObject hierarchy while activating or deactivating the parent.
+
+
+Loading Level From Scene Manager
+
+
+Cannot change GameObject hierarchy while activating or deactivating the parent.
+
+
+Loading Level From Scene Manager
+
+
+Loading Level From Scene Manager
+
+
+Cannot change GameObject hierarchy while activating or deactivating the parent.
+
+
+Loading Level From Scene Manager
+
+
+Achievement complete: loot_kill
+
+
+Loading Level From Scene Manager
+
+
