@@ -133,3 +133,12 @@ Achievement complete: loot_kill
 Loading Level From Scene Manager
 
 
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+
+
+Loading Level From Scene Manager
+
+
+Loading Level From Scene Manager
+
+
